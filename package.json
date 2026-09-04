@@ -1,0 +1,38 @@
+{
+  "name": "slidestories",
+  "version": "1.0.0",
+  "description": "Componente de Stories inspirado no Instagram, desenvolvido com TypeScript, com reprodução automática, barra de progresso, suporte a imagens e vídeos, pausa, navegação e persistência de estado.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giosantos99/SlideStories.git"
+  },
+  "keywords": [
+    "typescript",
+    "slider",
+    "stories",
+    "frontend",
+    "dom",
+    "vite",
+    "javascript"
+  ],
+  "author": "Giovanna Santos de Souza",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/giosantos99/SlideStories/issues"
+  },
+  "homepage": "https://github.com/giosantos99/SlideStories#readme",
+  "devDependencies": {
+    "@types/node": "^26.4.1",
+    "tsx": "^4.23.13",
+    "typescript": "^7.0.2",
+    "vite": "^8.2.2"
+  }
+}
